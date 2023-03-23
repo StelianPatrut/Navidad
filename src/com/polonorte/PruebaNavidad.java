@@ -19,6 +19,9 @@ public class PruebaNavidad {
 		System.out.println("¿Está santa trabajando?: " + Utils.convertirBooleanASiNo(santaTrabajando));
 		System.out.println("El carácter de santa es: " + santa.generarSaludoSegunCaracter(caracterAleatorio));
 		
+		
+		System.out.println("Hola que tal ?");
+		
 	}
 
 }
